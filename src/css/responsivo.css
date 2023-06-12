@@ -1,0 +1,8 @@
+@media(max-width: 1415px) {
+    .exposicao-de-pinturas{
+        max-width: 1024px;
+        margin: auto;
+        height: 100%;
+        padding: 20px 0px;
+    }
+}
