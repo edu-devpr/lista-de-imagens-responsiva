@@ -4,8 +4,7 @@ html {
 
 body {
     font-family: "public sans", sans-serif;
-    color: rgba(0, 0, 0, 1);
-
+    color: rgba(255, 255, 255, 1);
 }
 
 .exposicao-de-pinturas {
@@ -13,7 +12,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 .colecao-das-pinturas {
@@ -39,11 +37,10 @@ body {
 .colecao-das-pinturas .pintura .informacoes .titulo {
     font-size: 3rem;
     font-weight: 700;
-    color: rgba(255, 255, 255, 1);
+
 }
 
 .colecao-das-pinturas .pintura .informacoes .subtitulo {
     font-size: 1.5rem;
     font-weight: 300;
-    color: rgba(255, 255, 255, 1);
 }
